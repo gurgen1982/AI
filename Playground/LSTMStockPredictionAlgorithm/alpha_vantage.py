@@ -16,7 +16,7 @@ print("All libraries loaded")
 
 config = {
     "alpha_vantage": {
-        "key": "EQ5T270RJSJ3CGX5", # Claim your free API key here: https://www.alphavantage.co/support/#api-key
+        "key": "dmeo", # Claim your free API key here: https://www.alphavantage.co/support/#api-key
         "symbol": "IBM",
         "outputsize": "full",
         "key_adjusted_close": "5. adjusted close",
