@@ -9,11 +9,11 @@ import requests
 import json
 
 
-APIKEY = 'EQ5T270RJSJ3CGX5' 
+APIKEY = 'demo' 
 #replace 'my_alphav_api_key' with your actual Alpha Vantage API key obtained from https://www.alphavantage.co/support/#api-key
 
 
-DATABASE_ACCESS = False 
+DATABASE_ACCESS = True 
 #if False, the app will always query the Alpha Vantage APIs regardless of whether the stock data for a given ticker is already in the local database
 
 
