@@ -1,5 +1,5 @@
-#command to run
+# replace API key from alphaVantage.
 
-# python manage.py runserver
+#use following command to run the server:
+python manage.py runserver
 
-# need to use API key from alphaVantage.
